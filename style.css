@@ -1,0 +1,16 @@
+body{
+  background-color: lightgray;
+  margin: 8px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar{
+  background-color: white;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.466);
+}
+.navbar nav{
+  max-width: 900px ;
+  margin: 0 auto;
+}
+.navbar. logo img{
+  margin-right: 10px;
+}
